@@ -1,0 +1,3 @@
+.older/
+.venv/
+**/__pycache__/

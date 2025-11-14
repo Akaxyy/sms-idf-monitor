@@ -1,0 +1,491 @@
+{
+    "0": {
+        "ITEM": "1.1.1",
+        "PERGUNTA": "A contratada realiza a abrangência das ocorrências solicitadas pela Petrobras e apresenta no prazo previsto as evidências pertinentes referentes a implementação das ações?",
+        "DOCUMENTOS": [
+            "1- Relatório de investigação de ocorrência (acidente e/ou incidente);",
+            "2- Evidências de toda abrangência atráves de lista de presença e relatório fotográfico (acidentes e/ou incidentes);",
+            "3- Plano de ação e evidências de conclusão (tratamento de ocorrência);",
+            "4 - ",
+            "5- Book SMS;",
+            "* Obs.: Caso não haja ocorrência será apresentado um declaração de não aplicabilidade no book de SMS."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "Houve algum ocorrência de SMS (acidente e/ou incidente) durante o período analisado?",
+            "Houve realização de abrangência sobre as ocorrências solicitadas pela Petrobras no prazo previsto baseado nos acidentes e/ou incidentes?",
+            "A contratada realiza tratamento das ocorrências no prazo previsto e as evidências pertinentes referentes implementação dessas ações?",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor referente a gestão SMS?",
+            "É apresentado no book de SMS mensalmente?"
+        ],
+        "SETOR": "SMS",
+        "RESPONSAVEL": [
+            "Leonardo/Nathalia"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "1": {
+        "ITEM": "1.1.2",
+        "PERGUNTA": "A Contratada realiza o tratamento das ocorrências e apresenta no prazo previsto as evidências pertinentes referentes a implementação das ações?",
+        "DOCUMENTOS": [
+            "1- Relatório de investigação de ocorrência (acidente e/ou incidente);",
+            "2- Evidências de toda abrangência atráves de lista de presença e relatório fotográfico (acidentes e/ou incidentes);",
+            "3- Plano de ação e evidências de conclusão (tratamento de ocorrência);",
+            "4 - ",
+            "5- Book SMS;",
+            "* Obs.: Caso não haja ocorrência será apresentado um declaração de não aplicabilidade no book de SMS."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "Houve algum ocorrência de SMS (acidente e/ou incidente) durante o período analisado ?",
+            "Houve realização de abrangência sobre as ocorrências solicitadas pela Petrobras no prazo previsto baseado nos acidentes e/ou incidentes?",
+            "A contratada realiza tratamento das ocorrências no prazo previsto e as evidências pertinentes referentes implementação dessas ações?",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor referente a gestão SMS ?",
+            "É apresentado no book de SMS mensalmente?"
+        ],
+        "SETOR": "SMS",
+        "RESPONSAVEL": [
+            "Leonardo/Nathalia"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "2": {
+        "ITEM": "1.1.3",
+        "PERGUNTA": "Houve ocorrências de SMS no período avaliado?",
+        "DOCUMENTOS": [
+            "1- Relatório de investigação de ocorrência (acidente e/ou incidente);",
+            "2- Evidências de toda abrangência atráves de lista de presença e relatório fotográfico (acidentes e/ou incidentes);",
+            "3- Plano de ação e evidências de conclusão (tratamento de ocorrência);",
+            "4 - ",
+            "5- Book SMS;",
+            "* Obs.: Caso não haja ocorrência será apresentado um declaração de não aplicabilidade no book de SMS."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "Houve algum ocorrência de SMS (acidente e/ou incidente) durante o período analisado ?",
+            "Houve realização de abrangência sobre as ocorrências solicitadas pela Petrobras no prazo previsto baseado nos acidentes e/ou incidentes?",
+            "A contratada realiza tratamento das ocorrências no prazo previsto e as evidências pertinentes referentes implementação dessas ações?",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor referente a gestão SMS ?",
+            "É apresentado no book de SMS mensalmente?"
+        ],
+        "SETOR": "SMS",
+        "RESPONSAVEL": [
+            "Leonardo/Nathalia"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "3": {
+        "ITEM": "1.2.1",
+        "PERGUNTA": "A contratada apresentou Matriz de Treinamento e seus requisitos (NR-01), contemplando os treinamentos legais, normativos, institucionais, procedimentos operacionais e de segurança e cumpriu os cronogramas previstos, com avaliação do aprendizado?",
+        "DOCUMENTOS": [
+            "1- Controle de treinamento, cronograma de treinamento de SMS e Qualidade, horas de treinamento do mês, indice de treinamento, lista de presença dos procedimentos operacionais, matriz de treinamento;",
+            "2- Lista de presença e avaliação C3 (integração, NR 6, NR 20, NR 33, NR 35 e NR 10 \"quando aplicável\").",
+            "3-",
+            "* Obs.: Caso não haja ocorrência será apresentado um declaração de não aplicabilidade no book de SMS."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "A contratada apresentou matriz de treinamento e seus requisitos (NR-01) dos treinamentos legais, normativos e procedimentos operacionais e de segurança e cumpriu com o cronograma previsto?",
+            "A contratada aplica avaliação contínua dos profissionais baseado nos treinamentos ministrados pela empresa?",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor referente a gestão de treinamento e seus requisitos?",
+            "É apresentado no book de SMS mensalmente?"
+        ],
+        "SETOR": "SMS",
+        "RESPONSAVEL": [
+            "Leonardo/Nathalia"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "4": {
+        "ITEM": "1.3.1",
+        "PERGUNTA": "A contratada apresenta inventário com as devidas rastreabilidades das máquinas, equipamentos e acessórios e atende as inspeções e manutenções preventivas?",
+        "DOCUMENTOS": [
+            "1- Inventário controle de manutenção das maquinas, equipamentos, veículos e ferramentas isoladas;",
+            "Book de todos os certificados;",
+            "2- PGR e PCMSO (C3 e subcontratadas) e lista de subcontratadas;",
+            "3- Campanhas e boas praticas do mês e a RAC.",
+            "Relatório de AUDICOMP Petrobras e CIPA e Plano de Ação.",
+            "4-",
+            "* Obs.: Caso não haja ocorrência será apresentado um declaração de não aplicabilidade no book de SMS."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "A contratada apresenta inventário com as devidas rastreabilidades das máquinas e equipamentos e acessórios e atende as manutenções preventivas? - aplicável para todos os equipamentos utilizados pela contratada seja próprio, comodato ou pela subcontratada;",
+            "Certificados de máquinas e equipamentos estão conforme determina a legislação?",
+            "A contratada atende aos itens das avaliações iniciais ou períodicas de SMS (contradada e suas subs) - programas do tipo PGR, PCMSO, ASO, LTCAT, Prestserv, crachás definitivos, etc;",
+            "A contratada implementa ferramentas proativas para o monitaramento dos resultados (campanhas educativas visando a SMS);",
+            "A contratada possui alguma pendência referente ao tratamento de não conformidade associados a SMS como inspeções, auditorias externas, em canteiros e/ou frentes de trabalho;",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor relacionados a gestão de SMS?",
+            "É apresentado no book de SMS mensalmente?"
+        ],
+        "SETOR": "SMS",
+        "RESPONSAVEL": [
+            "Leonardo/Nathalia"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "5": {
+        "ITEM": "1.3.2",
+        "PERGUNTA": "A contratada atende aos itens das avaliações iniciais ou periódicas de SMS?",
+        "DOCUMENTOS": [
+            "1- Inventário controle de manutenção das maquinas, equipamentos, veículos e ferramentas isoladas;",
+            "Book de todos os certificados;",
+            "2- PGR e PCMSO (C3 e subcontratadas) e lista de subcontratadas;",
+            "3- Campanhas e boas praticas do mês e a RAC.",
+            "Relatório de AUDICOMP Petrobras e CIPA e Plano de Ação.",
+            "Evidência da notificação;",
+            "* Obs.: Caso não haja ocorrência será apresentado um declaração de não aplicabilidade no book de SMS."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "A contratada apresenta inventário com as devidas rastreabilidades das máquinas e equipamentos e acessórios e atende as manutenções preventivas? - aplicável para todos os equipamentos utilizados pela contratada seja próprio, comodato ou pela subcontratada;",
+            "Certificados de máquinas e equipamentos estão conforme determina a legislação?",
+            "A contratada atende aos itens das avaliações iniciais ou períodicas de SMS (contradada e suas subs) - programas do tipo PGR, PCMSO, ASO, LTCAT, Prestserv, crachás definitivos, etc;",
+            "A contratada implementa ferramentas proativas para o monitaramento dos resultados (campanhas educativas visando a SMS);",
+            "A contratada possui alguma pendência referente ao tratamento de não conformidade associados a SMS como inspeções, auditorias externas, em canteiros e/ou frentes de trabalho;",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor relacionados a gestão de SMS?",
+            "É apresentado no book de SMS mensalmente?"
+        ],
+        "SETOR": "SMS",
+        "RESPONSAVEL": [
+            "Leonardo/Nathalia"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "6": {
+        "ITEM": "1.3.3",
+        "PERGUNTA": "A contratada implementa ferramentas proativas atendendo as metas estabelecidas e apresenta o monitoramento e os resultados (análise crítica e tratamento) para a Petrobras?",
+        "DOCUMENTOS": [
+            "1- Inventário controle de manutenção das maquinas, equipamentos, veículos e ferramentas isoladas;",
+            "Book de todos os certificados;",
+            "2- PGR e PCMSO (C3 e subcontratadas) e lista de subcontratadas;",
+            "3- Campanhas e boas praticas do mês e a RAC.",
+            "Relatório de AUDICOMP Petrobras e CIPA e Plano de Ação.",
+            "Evidência da notificação;",
+            "* Obs.: Caso não haja ocorrência será apresentado um declaração de não aplicabilidade no book de SMS."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "A contratada apresenta inventário com as devidas rastreabilidades das máquinas e equipamentos e acessórios e atende as manutenções preventivas? - aplicável para todos os equipamentos utilizados pela contratada seja próprio, comodato ou pela subcontratada;",
+            "Certificados de máquinas e equipamentos estão conforme determina a legislação?",
+            "A contratada atende aos itens das avaliações iniciais ou períodicas de SMS (contradada e suas subs) - programas do tipo PGR, PCMSO, ASO, LTCAT, Prestserv, crachás definitivos, etc;",
+            "A contratada implementa ferramentas proativas para o monitaramento dos resultados (campanhas educativas visando a SMS);",
+            "A contratada possui alguma pendência referente ao tratamento de não conformidade associados a SMS como inspeções, auditorias externas, em canteiros e/ou frentes de trabalho;",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor relacionados a gestão de SMS?",
+            "É apresentado no book de SMS mensalmente?"
+        ],
+        "SETOR": "SMS",
+        "RESPONSAVEL": [
+            "Leonardo/Nathalia"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "7": {
+        "ITEM": "1.3.4",
+        "PERGUNTA": "A contratada possui pendência para tratamento de não conformidades em SMS identificadas em avaliações, inspeções, auditorias externas, ou quaisquer auditorias na frente de serviço (ambiente de trabalho), em canteiros ou embarcações?",
+        "DOCUMENTOS": [
+            "1- Inventário controle de manutenção das maquinas, equipamentos, veículos e ferramentas isoladas;",
+            "Book de todos os certificados;",
+            "2- PGR e PCMSO (C3 e subcontratadas) e lista de subcontratadas;",
+            "3- Campanhas e boas praticas do mês e a RAC.",
+            "Relatório de AUDICOMP Petrobras e CIPA e Plano de Ação.",
+            "Evidência da notificação;",
+            "* Obs.: Caso não haja alguma sanção contratual será apresentado um declaração de não aplicabilidade no book de SMS."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "A contratada apresenta inventário com as devidas rastreabilidades das máquinas e equipamentos e acessórios e atende as manutenções preventivas? - aplicável para todos os equipamentos utilizados pela contratada seja próprio, comodato ou pela subcontratada;",
+            "Certificados de máquinas e equipamentos estão conforme determina a legislação?",
+            "A contratada atende aos itens das avaliações iniciais ou períodicas de SMS (contradada e suas subs) - programas do tipo PGR, PCMSO, ASO, LTCAT, Prestserv, crachás definitivos, etc;",
+            "A contratada implementa ferramentas proativas para o monitaramento dos resultados (campanhas educativas visando a SMS);",
+            "A contratada possui alguma pendência referente ao tratamento de não conformidade associados a SMS como inspeções, auditorias externas, em canteiros e/ou frentes de trabalho;",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor relacionados a gestão de SMS?",
+            "É apresentado no book de SMS mensalmente?"
+        ],
+        "SETOR": "SMS",
+        "RESPONSAVEL": [
+            "Leonardo/Nathalia"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "8": {
+        "ITEM": "2.1.1",
+        "PERGUNTA": "No período, qual o percentual de entregas em conformidade com o especificado contratualmente?",
+        "DOCUMENTOS": [
+            "1- Mapa de Junta, LV da auditoria Semestral;",
+            "2- Mapa de RNC e as RNC se aplicavel;",
+            "3- Relatório de END referente a retrabalho se aplicavel. Evidências das tratativas que foi atendido no prazo;",
+            "4- Relatório de estoque de Ferramentas e Equipamentos:",
+            "5- PT;",
+            "6- Caso haja alguma sanção contratual será apresentado documento para comprovação do atendimento."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "Qual a porcentagem de entrega dos serviços em conformidade com o contrato? (abrange o anexo de qualidade, auditorias de qualidade, nível de atuação em relação às RNC's, qualidade das documentações das medições contratuais",
+            "e/ou administrativas);",
+            "Houve não-conformidades apontadas pela fiscalização de campo? Realizado e tratado a RNC dentro do prazo?",
+            "Houve retrabalho apontado pela fiscalização de campo? As tratativas foram tratadas dentro do prazo?",
+            "Os recursos técnicos (materiais, equipamentos, ferramentas) foram disponibilizados conforme definido no contrato? A ausência de algum recurso causou algum atraso?",
+            "Houve alguma paralisação dos serviços por solicitação da fiscalização imputável à contratada? Foi parcial, total ? Gerou algum atraso? com solução até 24 hs?",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor relacionados a retrabalho, qualidade, recursos?"
+        ],
+        "SETOR": "QUALIDADE",
+        "RESPONSAVEL": [
+            "Alex",
+            "Tadeu",
+            "João",
+            "Alemão",
+            "Tiago"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "9": {
+        "ITEM": "2.2.1",
+        "PERGUNTA": "Como se deu a ocorrência e tratamento das não conformidades por parte do fornecedor na prestação dos serviços?",
+        "DOCUMENTOS": [
+            "1- Mapa de Junta, LV da auditoria Semestral;",
+            "2- Mapa de RNC e as RNC se aplicavel;",
+            "3- Relatório de END se aplicavel;",
+            "4- Relatório de estoque de Ferramentas e Equipamentos:",
+            "5- PT;",
+            "6- Caso haja alguma sanção contratual será apresentado documento para comprovação do atendimento."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "Qual a porcentagem de entrega dos serviços em conformidade com o contrato? (abrange o anexo de qualidade, auditorias de qualidade, nível de atuação em relação às RNC's, qualidade das documentações das medições contratuais",
+            "e/ou administrativas);",
+            "Houve não-conformidades apontadas pela fiscalização de campo? Realizado e tratado a RNC dentro do prazo?",
+            "Houve retrabalho apontado pela fiscalização de campo? As tratativas foram tratadas dentro do prazo?",
+            "Os recursos técnicos (materiais, equipamentos, ferramentas) foram disponibilizados conforme definido no contrato? A ausência de algum recurso causou algum atraso?",
+            "Houve alguma paralisação dos serviços por solicitação da fiscalização imputável à contratada? Foi parcial, total ? Gerou algum atraso? com soluçãa"
+        ],
+        "SETOR": "QUALIDADE",
+        "RESPONSAVEL": [
+            "Alex",
+            "Tadeu",
+            "João",
+            "Alemão",
+            "Tiago"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "10": {
+        "ITEM": "2.3.1",
+        "PERGUNTA": "Houve necessidade de retrabalho (reparar, corrigir, reconstruir ou substituir os serviços ou materiais empregados)?",
+        "DOCUMENTOS": [
+            "1- Mapa de Junta, LV da auditoria Semestral;",
+            "2- Mapa de RNC e as RNC se aplicavel;",
+            "3- Relatório de END se aplicavel;",
+            "4- Relatório de estoque de Ferramentas e Equipamentos:",
+            "5- PT;",
+            "6- Caso haja alguma sanção contratual será apresentado documento para comprovação do atendimento."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "Qual a porcentagem de entrega dos serviços em conformidade com o contrato? (abrange o anexo de qualidade, auditorias de qualidade, nível de atuação em relação às RNC's, qualidade das documentações das medições contratuais",
+            "e/ou administrativas);",
+            "Houve não-conformidades apontadas pela fiscalização de campo? Realizado e tratado a RNC dentro do prazo?",
+            "Houve retrabalho apontado pela fiscalização de campo? As tratativas foram tratadas dentro do prazo?",
+            "Os recursos técnicos (materiais, equipamentos, ferramentas) foram disponibilizados conforme definido no contrato? A ausência de algum recurso causou algum atraso?",
+            "Houve alguma paralisação dos serviços por solicitação da fiscalização imputável à contratada? Foi parcial, total ? Gerou algum atraso? com soluçãa"
+        ],
+        "SETOR": "QUALIDADE",
+        "RESPONSAVEL": [
+            "Alex",
+            "Tadeu",
+            "João",
+            "Alemão",
+            "Tiago"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "11": {
+        "ITEM": "2.4.1",
+        "PERGUNTA": "No período, os recursos técnicos e materiais foram mobilizados e utilizados conforme estebelecido contratualmente?",
+        "DOCUMENTOS": [
+            "1- Mapa de Junta, LV da auditoria Semestral;",
+            "2- Mapa de RNC e as RNC se aplicavel;",
+            "3- Relatório de END se aplicavel;",
+            "4- Relatório de estoque de Ferramentas e Equipamentos:",
+            "5- PT;",
+            "6- Caso haja alguma sanção contratual será apresentado documento para comprovação do atendimento."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "Qual a porcentagem de entrega dos serviços em conformidade com o contrato? (abrange o anexo de qualidade, auditorias de qualidade, nível de atuação em relação às RNC's, qualidade das documentações das medições contratuais",
+            "e/ou administrativas);",
+            "Houve não-conformidades apontadas pela fiscalização de campo? Realizado e tratado a RNC dentro do prazo?",
+            "Houve retrabalho apontado pela fiscalização de campo? As tratativas foram tratadas dentro do prazo?",
+            "Os recursos técnicos (materiais, equipamentos, ferramentas) foram disponibilizados conforme definido no contrato? A ausência de algum recurso causou algum atraso?",
+            "Houve alguma paralisação dos serviços por solicitação da fiscalização imputável à contratada? Foi parcial, total ? Gerou algum atraso? com soluçãa"
+        ],
+        "SETOR": "QUALIDADE",
+        "RESPONSAVEL": [
+            "Alex",
+            "Tadeu",
+            "João",
+            "Alemão",
+            "Tiago"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "12": {
+        "ITEM": "2.5.1",
+        "PERGUNTA": "No período, houve alguma paralisação dos serviços por motivo imputável ao fornecedor?",
+        "DOCUMENTOS": [
+            "1- Mapa de Junta, LV da auditoria Semestral;",
+            "2- Mapa de RNC e as RNC se aplicavel;",
+            "3- Relatório de END se aplicavel;",
+            "4- Relatório de estoque de Ferramentas e Equipamentos:",
+            "5- PT;",
+            "6- Caso haja alguma sanção contratual será apresentado documento para comprovação do atendimento."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "Qual a porcentagem de entrega dos serviços em conformidade com o contrato? (abrange o anexo de qualidade, auditorias de qualidade, nível de atuação em relação às RNC's, qualidade das documentações das medições contratuais",
+            "e/ou administrativas);",
+            "Houve não-conformidades apontadas pela fiscalização de campo? Realizado e tratado a RNC dentro do prazo?",
+            "Houve retrabalho apontado pela fiscalização de campo? As tratativas foram tratadas dentro do prazo?",
+            "Os recursos técnicos (materiais, equipamentos, ferramentas) foram disponibilizados conforme definido no contrato? A ausência de algum recurso causou algum atraso?",
+            "Houve alguma paralisação dos serviços por solicitação da fiscalização imputável à contratada? Foi parcial, total ? Gerou algum atraso? com soluçãa"
+        ],
+        "SETOR": "QUALIDADE",
+        "RESPONSAVEL": [
+            "Alex",
+            "Tadeu",
+            "João",
+            "Alemão",
+            "Tiago"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "13": {
+        "ITEM": "3.1.1",
+        "PERGUNTA": "O fornecedor atendeu as solicitações de urgência ou alteração de prazos de entrega?",
+        "DOCUMENTOS": [
+            "1- Rotina: Indicador e quebra de programação;",
+            "Pacotes e Tanques: Cuva geral mensal;",
+            "2- Atendimentos a SP, SS (SAMC) e atas de reuniões;",
+            "3- Evidências deverâo ser demonstradas em atendimento a origem da notificação."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "A contratada atendeu a alguma solicitação de urgência ou alteração de prazos de entrega pela Petrobras?",
+            "A contratada atendeu aos prazos contratuais definidos no contrato e/ou acordado com a fiscalização? Avaliado quanto o atendimento às solicitações da Fiscalização (solicitações de providências - SP/SAMC). Atendimento aos",
+            "serviços planejados (SAMC). Entrega de documentações conforme definido em reuniões (Atas).",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor relacionado a prazos?"
+        ],
+        "SETOR": "PRAZO",
+        "RESPONSAVEL": [
+            "Tiago",
+            "Pedro",
+            "Edmilson",
+            "João",
+            "Alemão",
+            "Darlane"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "14": {
+        "ITEM": "3.2.1",
+        "PERGUNTA": "O fornecedor cumpriu os prazos de execução dos serviços de acordo com o planejamento?",
+        "DOCUMENTOS": [
+            "1- Rotina: Indicador e quebra de programação;",
+            "Pacotes e Tanques: Cuva geral mensal;",
+            "2- Atendimentos a SP, SS (SAMC) e atas de reuniões;",
+            "3- Evidências deverâo ser demonstradas em atendimento a origem da notificação."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "A contratada atendeu a alguma solicitação de urgência ou alteração de prazos de entrega pela Petrobras?",
+            "A contratada atendeu aos prazos contratuais definidos no contrato e/ou acordado com a fiscalização? Avaliado quanto o atendimento às solicitações da Fiscalização (solicitações de providências - SP/SAMC). Atendimento aos",
+            "serviços planejados (SAMC). Entrega de documentações conforme definido em reuniões (Atas).",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor relacionado a prazos?"
+        ],
+        "SETOR": "PRAZO",
+        "RESPONSAVEL": [
+            "Tiago",
+            "Pedro",
+            "Edmilson",
+            "João",
+            "Alemão",
+            "Darlane"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "15": {
+        "ITEM": "4.1.1",
+        "PERGUNTA": "O fornecedor disponibilizou no prazo a documentação exigida para comprovar a habilitação e qualificação dos profissionais?",
+        "DOCUMENTOS": [
+            "1- Book de contratação (colaborador);",
+            "2- Evidências de entrega com data de envio para fiscalização;",
+            "3- Organograma."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "A qualificação dos profissionais foram atendidos conforme definido no contrato? Houve atraso na prestação dos serviços imputável à contratada devido algum atraso no envio.",
+            "Os recursos humanos estava disponíveis conforme estabelecido contratualmente (vide organograma).",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor relacionados a gestão contratual RH?"
+        ],
+        "SETOR": "GESTÃO",
+        "RESPONSAVEL": [
+            "Rafael",
+            "Pedro"
+        ],
+        "DATA": "Book é apresentado por demanda. Relação de subcontratadas é apresentada todo dia 25"
+    },
+    "16": {
+        "ITEM": "4.1.2",
+        "PERGUNTA": "No período, os recursos humanos estavam disponíveis conforme estabelecido contratualmente?",
+        "DOCUMENTOS": [
+            "1- Book de contratação (colaborador);",
+            "2- Evidências de entrega com data de envio para fiscalização;",
+            "3- Organograma."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "A qualificação dos professionals foram atendidos conforme definido no contrato? Houve atraso na prestação dos serviços imputável à contratada devido algum atraso no envio.",
+            "Os recursos humanos estava disponíveis conforme estabelecido contratualmente (vide organograma).",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor relacionados a gestão contratual RH?"
+        ],
+        "SETOR": "GESTÃO",
+        "RESPONSAVEL": [
+            "Rafael",
+            "Pedro"
+        ],
+        "DATA": "Book é apresentado por demanda. Relação de subcontratadas é apresentada todo dia 25"
+    },
+    "17": {
+        "ITEM": "4.2.1",
+        "PERGUNTA": "O fornecedor enviou a documentação legalmente exigida para o período no prazo previsto contratualmente?",
+        "DOCUMENTOS": [
+            "1- Documentação Trabalhista (Sede);",
+            "2- PGR e PCMSO (C3 e subcontratadas) e lista de subcontratadas."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "A contratada (e suas subs) apresenta documentação dos adimplementos trabalhistas dentro do sistema estabelecido pela Petrobras (SIFAC). Houve pendências referente ao cumprimento das obrigações. Houve necessidade de retenção do relatório de Medição?",
+            "Houve aplicação de alguma sanção contratual (notificação/multa) imputável ao fornecedor relacionados ao cumprimento das obrigações de adimplementos trabalhistas?"
+        ],
+        "SETOR": "GESTÃO",
+        "RESPONSAVEL": [
+            "Edilson (Sede)",
+            "Leonardo / Nathalia"
+        ],
+        "DATA": "26 de cada mês"
+    },
+    "18": {
+        "ITEM": "4.3.1",
+        "PERGUNTA": "Excluindo a exigência da documentação legal e de recursos humanos, no período, o fornecedor cumpriu as exigências contratuais",
+        "DOCUMENTOS": [
+            "1- Atendimento as SP e SS;"
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "A contratada cumpriu com as exigências contratuais administrativamente",
+            "A liderança participa das reuniões e/ou visita o local de trabalho"
+        ],
+        "SETOR": "GESTÃO",
+        "RESPONSAVEL": [
+            "Darlane"
+        ],
+        "DATA": "27 de cada mês"
+    },
+    "19": {
+        "ITEM": "4.3.2",
+        "PERGUNTA": "A liderança do Fornecedor visitou o local de trabalho ou participou das reuniões?",
+        "DOCUMENTOS": [
+            "Listas de presença da CONSECOM."
+        ],
+        "DOCUMENTOS NECESSÁRIOS": [
+            "A contratada cumpriu com as exigências contratuais administrativamente",
+            "A liderança participa das reuniões e/ou visita o local de trabalho"
+        ],
+        "SETOR": "GESTÃO",
+        "RESPONSAVEL": [
+            "Leonardo/Nathalia"
+        ],
+        "DATA": "27 de cada mês"
+    }
+}

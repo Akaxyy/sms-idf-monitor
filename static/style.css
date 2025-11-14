@@ -1,0 +1,147 @@
+/* static/style.css */
+
+/* 1. Classe Base: Define o formato da "caixa" */
+.icon-background {
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin-top: 15px;
+}
+
+/* 2. Define o tamanho do SVG dentro da caixa */
+.icon-background svg {
+    width: 30px;
+    height: 30px;
+}
+
+/* 3. Cores de fundo dos ícones */
+.icon-bg-blue {
+    background-color: #e6f1ff;
+    /* Azul Claro */
+}
+
+.icon-bg-orange {
+    background-color: #ffedd5;
+    /* Laranja Claro */
+}
+
+.icon-bg-green {
+    background-color: #dcfce7;
+    /* Verde Claro */
+}
+
+.icon-bg-cyan {
+    background-color: #cffafe;
+    /* Ciano/Azul Claro */
+}
+
+/* 4. Estilos para os Avatares (NOVO) */
+.avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Cores dos avatares */
+.avatar-le {
+    background-color: #E0E7FF;
+    color: #3730A3;
+}
+
+.avatar-al {
+    background-color: #D1FAE5;
+    color: #064E3B;
+}
+
+.avatar-ta {
+    background-color: #E0F2FE;
+    color: #0C4A6E;
+}
+
+.avatar-jo {
+    background-color: #F3E8FF;
+    color: #581C87;
+}
+
+
+/* 5. Estilos para lista de responsáveis (NOVO) */
+.responsavel-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+.responsavel-info {
+    flex-grow: 1;
+    margin-left: 12px;
+}
+
+.responsavel-nome {
+    font-weight: 500;
+    color: #333;
+    font-size: 16px;
+}
+
+.responsavel-itens {
+    font-size: 14px;
+    color: #666;
+}
+
+.setor-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 24px;
+    width: 100%;
+}
+
+.setor-label {
+    width: 100px;
+    font-size: 15px;
+    color: #374151;
+    flex-shrink: 0;
+    padding-right: 10px;
+}
+
+.setor-bar-container {
+    flex-grow: 1;
+    height: 12px;
+    background-color: #f3f4f6;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.setor-bar {
+    height: 100%;
+    background-color: #3B82F6;
+    border-radius: 6px;
+    transition: width 0.3s ease-out;
+}
+
+.setor-value {
+    font-size: 15px;
+    color: #374151;
+    flex-shrink: 0;
+    margin-left: 16px;
+    width: 20px;
+    text-align: right;
+    font-weight: 500;
+}
+
+
+div[data-testid="stButton"]>button[kind="secondary"] {
+    background: none;
+    border: none;
+    color: inherit;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 5px;
+}
