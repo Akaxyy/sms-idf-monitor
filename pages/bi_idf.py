@@ -27,7 +27,7 @@ setor_selecionado = st.sidebar.multiselect(
 
 df_filtrado_setor = df[df['SETOR'].isin(setor_selecionado)]
 
-responsaveis_flat = df_filtrado_setor['RESPONSÁVEL'].explode()
+responsaveis_flat = df_filtrado_setor['RESPONSAVEL'].explode()
 responsaveis_validos = [r for r in responsaveis_flat.unique() if pd.notna(r)]
 
 responsavel_selecionado = st.sidebar.multiselect(
@@ -43,7 +43,7 @@ df_filtrado = df[df['SETOR'].isin(setor_selecionado)]
 # Filtra por responsável: checa se CADA item da lista de responsáveis da linha
 # contém PELO MENOS UM dos responsáveis selecionados no filtro.
 df_filtrado = df_filtrado[
-    df_filtrado['RESPONSÁVEL'].apply(
+    df_filtrado['RESPONSAVEL'].apply(
         lambda lista_resp_linha: any(resp in lista_resp_linha for resp in responsavel_selecionado)
     )
 ]
@@ -67,8 +67,7 @@ else:
             col1, col2 = st.columns([1, 2])
             with col1:
                 st.info(f"**Setor:** {row['SETOR']}")
-                # 'join' transforma a lista de responsáveis em uma string bonita
-                st.info(f"**Responsáveis:** {', '.join(row['RESPONSÁVEL'])}")
+                st.info(f"**Responsáveis:** {', '.join(row['RESPONSAVEL'])}")
                 st.info(f"**Prazo:** {row['DATA']}")
 
             with col2:
