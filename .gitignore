@@ -1,0 +1,7 @@
+.older/
+.venv/
+**/__pycache__/
+dosc/
+ignore/
+temp.txt
+temp2.txt
