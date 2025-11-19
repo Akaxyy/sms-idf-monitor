@@ -282,8 +282,6 @@ def show_itens_bi(arquivos_list, diretorio, setor, mes):
                             st.session_state.show_pdf = True
                             st.rerun()
 
-                            
-
     # Botão de fechar
     if st.button("Fechar", key="close_arquivos", use_container_width=True, type="primary"):
         st.rerun()
